@@ -8,3 +8,5 @@
 
 #### Click: New file 
 ![](https://imgur.com/CWNyc9G.png)
+
+#### File name daw: .gitlab-ci.yml
