@@ -5,3 +5,6 @@
 
 #### Click: Create blank project --->Project name daw--->Click: Create project
 ![](https://imgur.com/X0xwhXY.png)
+
+#### Click: New file 
+![](https://imgur.com/CWNyc9G.png)
