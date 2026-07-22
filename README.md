@@ -10,3 +10,4 @@
 ![](https://imgur.com/CWNyc9G.png)
 
 #### File name daw: .gitlab-ci.yml
+![](https://imgur.com/kOrpPPA.png)
