@@ -48,3 +48,6 @@ MY test Job:
             echo "My job from stage test"
 ```
 ---
+
+#### Click---> Status: failed
+![](https://imgur.com/qnxw0mh.png)
