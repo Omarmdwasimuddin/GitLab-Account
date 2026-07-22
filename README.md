@@ -15,7 +15,7 @@
 
 ---
 
-#### File name daw: .gitlab-ci.yml ---> code daw and click koro: Commit changes--->Commit message daw and Commit changes abar click koro.
+#### File name daw: .gitlab-ci.yml ---> code daw and click koro: Commit changes--->Commit message daw: Add new file---> and Commit changes abar click koro.
 ![](https://imgur.com/kOrpPPA.png)
 ```bash
 stages: 
