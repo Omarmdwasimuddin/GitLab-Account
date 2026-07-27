@@ -7,9 +7,7 @@
 
 #### Value set koro and continue click koro.
 ![](https://imgur.com/e3SMYf1.png)
-```bash
-BW6t$jx9_d7qih!
-```
+
 ---
 
 #### Email verify koro. 
