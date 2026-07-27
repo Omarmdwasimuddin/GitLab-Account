@@ -17,39 +17,5 @@ BW6t$jx9_d7qih!
 
 ---
 
-#### File name daw: .gitlab-ci.yml ---> code daw and click koro: Commit changes--->Commit message daw: Add new file---> and Commit changes abar click koro.
-![](https://imgur.com/kOrpPPA.png)
-```bash
-stages: 
-    - "my stage 1"
-    - "my build stage"
-    - "my test stage"
-
-
-
-MY Job:
-    stage: "my stage 1" 
-    script: 
-        - |
-            echo "My job from stage 1"
-
-
-
-MY build Job:
-    stage: "my build stage" 
-    script: 
-        - |
-            echo "My job from stage build"
-
-
-
-MY test Job:
-    stage: "my test stage" 
-    script: 
-        - |
-            echo "My job from stage test"
-```
----
-
-#### Click---> Status: failed
-![](https://imgur.com/qnxw0mh.png)
+#### Value set koro and click koro continue.
+![](https://imgur.com/jUQx0N3.png)
