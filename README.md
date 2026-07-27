@@ -22,6 +22,10 @@ BW6t$jx9_d7qih!
 
 ---
 
-#### Click: Projects---> New project---> Create blank project
+#### Click: Projects---> New project---> Create blank project---> value set koro click koro Create project
 ![](https://imgur.com/W0ny15E.png)
 ![](https://imgur.com/l9NdV8e.png)
+
+---
+
+####
