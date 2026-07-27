@@ -1,7 +1,7 @@
 ## heading...
 
 #### Visit---> https://gitlab.com/ --->Click: Try for free ---> Google or Github account diye verification and account create koro.
-![](https://imgur.com/2whvy0j.png)
+![](https://imgur.com/lAd74eh.png)
 
 ---
 
