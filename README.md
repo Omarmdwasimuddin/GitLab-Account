@@ -7,7 +7,9 @@
 
 #### Click: Create blank project --->Project name daw--->Click: Create project
 ![](https://imgur.com/e3SMYf1.png)
-
+```bash
+BW6t$jx9_d7qih!
+```
 ---
 
 #### Click: New file 
