@@ -1,6 +1,6 @@
 ## heading...
 
-#### Visit---> https://gitlab.com/ --->Click: Try for free ---> Google or Github account diye verification and account create koro.
+#### Visit---> https://gitlab.com/ --->Click: Try for free
 ![](https://imgur.com/lAd74eh.png)
 
 ---
