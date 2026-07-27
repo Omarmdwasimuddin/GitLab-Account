@@ -12,8 +12,8 @@ BW6t$jx9_d7qih!
 ```
 ---
 
-#### Click: New file 
-![](https://imgur.com/CWNyc9G.png)
+#### Email verify koro. 
+![](https://imgur.com/hRuVzV9.png)
 
 ---
 
